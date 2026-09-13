@@ -220,7 +220,7 @@ I also performed controlled hyperparameter tuning using `C` and `gamma`. The tun
 
 Therefore, I retained the baseline SVM.
 
-![SVM confusion matrix](reports/figures/svm_confusion_matrix.png)
+![SVM confusion matrix](reports/figures/svm_evaluation_confusion_matrix.png)
 
 ---
 
@@ -480,7 +480,7 @@ Splice_junction_classification/
 │       ├── position_distribution_EI.png
 │       ├── position_distribution_IE.png
 │       ├── position_distribution_N.png
-│       ├── svm_confusion_matrix.png
+│       ├── svm_evaluation_confusion_matrix.png
 │       ├── tuned_svm_confusion_matrix.png
 │       ├── random_forest_confusion_matrix.png
 │       ├── model_metric_comparison.png
